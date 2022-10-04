@@ -1,6 +1,6 @@
 # Merge-Sort-Projesi-www.patika.dev-
 
-**Patika Kapsamında Sort Dersleri Sonu Alıştırma Projeleri Kapsamında Yapılmıştır.Merge Sort Projesi'dir. [www.patika.dev]**
+**Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kapsamında Yapılmıştır. Merge Sort Projesi'dir. [www.patika.dev]**
 
 ## Merge Sort Projesi
 

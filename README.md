@@ -23,10 +23,10 @@
     - Bu sebepten dolayı n-1 olsada -1 değeri Big-O da ele alınmaz ve her aşama için Big-O => O(n) olmuş olur.
     - Merge Sortta aşama aşama parçalama işlemi olur.
     - Parçalama işleminden dolayı her seferinde yarıya ineceğinden dolayı  2^x = n eşit olur. Çünkü her seferinde ikiye parçalar.
-    - Buradanda x'i yalnız bırakırsak x = log2n olur. 
-    - Böylece Merge Sort'un Big-O gösterimi O(n*log2n) olur.
+    - Buradanda x'i yalnız bırakırsak x = logn olur. 
+    - Böylece Merge Sort'un Big-O gösterimi O(n*logn) olur.
 
-    - Big-O => O(n*log2n)
+    - Big-O => O(n*logn)
 
     
     
